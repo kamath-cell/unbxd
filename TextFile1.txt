@@ -1,7 +1,12 @@
 I am pratheek
 aruba
 com
+<<<<<<< HEAD
 tgh
+=======
+dfh
+&
+>>>>>>> deb37d1 (any)
 
 45
 hpe
