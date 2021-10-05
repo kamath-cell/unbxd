@@ -3,12 +3,8 @@ aruba
 com
 dfh
 &
-<<<<<<< HEAD
-div
-=======
 main
 []
->>>>>>> 71ada94 (any)
 45
 hpe
 mai
