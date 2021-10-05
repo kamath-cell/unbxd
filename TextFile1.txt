@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 I am pratheek
+=======
+I am pratheek
+aruba
+hpe
+mai
+>>>>>>> aca5da7 (up)
