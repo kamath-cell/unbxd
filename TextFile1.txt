@@ -1,22 +1,5 @@
 I am pratheek
 aruba
 com
--
 hpe
 mai
-give
-me
-any
-body
-45
-pratheek
-^
-can
-dance
-ando
-deepa
-@
-fill
-56
-50
-+
