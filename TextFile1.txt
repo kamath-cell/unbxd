@@ -7,4 +7,9 @@ me
 any
 body
 can
+<<<<<<< HEAD
 sing
+=======
+dance
+and
+>>>>>>> e23dcf4 (any)
