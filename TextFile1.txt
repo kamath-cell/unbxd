@@ -1,5 +1,10 @@
 I am pratheek
 aruba
+<<<<<<< HEAD
 us
+=======
+com
+45
+>>>>>>> bbfdb99 (any)
 hpe
 mai
