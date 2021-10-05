@@ -7,7 +7,12 @@ me
 any
 body
 45
+<<<<<<< HEAD
 kamath
+=======
+pratheek
+^
+>>>>>>> d8ad579 (any)
 can
 dance
 ando
