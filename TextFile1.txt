@@ -1,11 +1,7 @@
 I am pratheek
 aruba
-<<<<<<< HEAD
-us
-=======
 com
 -
->>>>>>> 92704d2 (any)
 hpe
 mai
 give
