@@ -8,9 +8,5 @@ dfh
 hpe
 mai
 cook
-<<<<<<< HEAD
-*
-=======
 ^
 #
->>>>>>> 5fee324 (any)
