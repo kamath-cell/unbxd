@@ -7,4 +7,9 @@ dfh
 45
 hpe
 mai
+<<<<<<< HEAD
 stick
+=======
+cook
+!
+>>>>>>> e86508b (any)
